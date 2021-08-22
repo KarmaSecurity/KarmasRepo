@@ -1,2 +1,0 @@
-# KarmasRepo
-Karma's Repository
